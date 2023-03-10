@@ -1,3 +1,9 @@
+##How to run
+
+ - Open folder in command prompt
+ - run by typing "go run main.go example_processess.csv"
+
+
 ## Project 1: Process Scheduler
 
 - First Come First Serve (FCFS) [already done]
