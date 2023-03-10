@@ -1,6 +1,6 @@
-##How to run
+## How to run
 
- - Open folder in command prompt
+ - Open files in VSCode
  - run by typing "go run main.go example_processess.csv"
 
 
@@ -21,8 +21,6 @@ Objectives:
    3. Round-round (preemptive) and report average turnaround time, average waiting time, and average throughput.
 
 ## Grading
-
-Code must compile and run.
 
 Each type is worth different points:
 
